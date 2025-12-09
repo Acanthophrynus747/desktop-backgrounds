@@ -1,6 +1,6 @@
 # Desktop Backgrounds
 
-I like to take wildlife photos, and I use my own photos for my desktop background. Use as you please as long as you aren't making money (without giving it all to me). 
+I like to take wildlife photos, and I use my own photos for my desktop background. Use as you please as long as you aren't making money (unless you give it all to me). 
 
 The "all-backgrounds" folder contains all the photos in the collection that are formatted properly for a typical monitor (at least the one I use, 16:9). The "my-backgrounds" folder is where I copy the specfic photo or photos I want to use. You could also just take whichever ones you want and put them in some other folder.
 
